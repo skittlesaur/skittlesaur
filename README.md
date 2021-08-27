@@ -9,12 +9,10 @@ My favorite programming language is Java. You can start a conversation about tha
 
 <h2> Skills </h2>
 <a href= https://github.com/skittlesaur?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://www.vectorlogo.zone/logos/java/java-icon.svg'> </a>
-<a href= https://github.com/skittlesaur?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png'> </a>
 <a href= https://github.com/skittlesaur?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png'> </a>
 <a href= https://github.com/skittlesaur?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://w7.pngwing.com/pngs/604/592/png-transparent-css3-cascading-style-sheets-logo-html-beautify-blue-angle-text-thumbnail.png'> </a>
 <a href= https://github.com/skittlesaur?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png'> </a>
 <a href= https://github.com/skittlesaur?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg'> </a>
-<a href= https://github.com/skittlesaur?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://www.vectorlogo.zone/logos/python/python-icon.svg'> </a>
 <a href= https://github.com/skittlesaur?tab=repositories&q=&type=&language=unity&sort= > <img width ='32px' src ='https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg'> </a>
 
 <h2> Social Accounts </h2>
