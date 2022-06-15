@@ -1,5 +1,3 @@
 # Creating thoughtful, intuitive software.
 
-*Working on new portfolio*
-
-[Old Portfolio](https://skittlesaur.github.io/)
+[Visit Portfolio](https://baraaa.vercel.app/)
